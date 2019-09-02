@@ -1,0 +1,18 @@
+{
+    "1047237787684": {
+        "values_changed": {
+            "root['attributes']['name']['en_US']": {
+                "new_value": "RED GREEN BLUE",
+                "old_value": "ROLY POLY"
+            },
+            "root['attributes']['name']['default']": {
+                "new_value": "RED GREEN BLUE",
+                "old_value": "ROLY POLY"
+            },
+            "root['attributes']['productPageUrl']['default']": {
+                "new_value": "http://google.com",
+                "old_value": "https://shop-cst-tires.myshopify.com/products/roly-poly-1"
+            }
+        }
+    }
+}
